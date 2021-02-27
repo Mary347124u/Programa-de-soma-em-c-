@@ -1,0 +1,8 @@
+C:\Users\DELL\Documents\SharpDevelop Projects\programaDeSoma\programaDeSoma\obj\Debug\programaDeSoma.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\SharpDevelop Projects\programaDeSoma\programaDeSoma\obj\Debug\programaDeSoma.MainForm.resources
+C:\Users\DELL\Documents\SharpDevelop Projects\programaDeSoma\programaDeSoma\obj\Debug\programaDeSoma.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\SharpDevelop Projects\programaDeSoma\programaDeSoma\bin\Debug\programaDeSoma.exe.config
+C:\Users\DELL\Documents\SharpDevelop Projects\programaDeSoma\programaDeSoma\bin\Debug\programaDeSoma.exe
+C:\Users\DELL\Documents\SharpDevelop Projects\programaDeSoma\programaDeSoma\bin\Debug\programaDeSoma.pdb
+C:\Users\DELL\Documents\SharpDevelop Projects\programaDeSoma\programaDeSoma\obj\Debug\programaDeSoma.exe
+C:\Users\DELL\Documents\SharpDevelop Projects\programaDeSoma\programaDeSoma\obj\Debug\programaDeSoma.pdb
